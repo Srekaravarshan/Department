@@ -1,0 +1,9 @@
+export 'home/home_screen.dart';
+export 'nav/nav.dart';
+export 'blog/blog.dart';
+export 'quiz/quiz.dart';
+export 'faculty/faculty.dart';
+export 'materials/materials.dart';
+export 'faculty_details/faculty_details.dart';
+export 'placement/placement_screen.dart';
+export 'profile/profile_screen.dart';
